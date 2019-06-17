@@ -14,6 +14,7 @@
 5. in folder, in init.py file, add a dot so it becomes 'import from .geohash'
 
 **Launch notebook that trains model**
+1. add training dataset 'training.csv' to this directory
 1. navigate to path tm_forecast folder is
 2. issue command *juypter notebook*
 3. run notebook data_exploration_final
